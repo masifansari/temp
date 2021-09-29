@@ -1,0 +1,1 @@
+hello,create,drag and add to global
